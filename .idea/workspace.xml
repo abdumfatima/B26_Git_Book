@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad190261-77c3-4d59-8549-16891acf26dc" name="Changes" comment="Test updated 3">
+    <list default="true" id="ad190261-77c3-4d59-8549-16891acf26dc" name="Changes" comment="added positive testing for tc001">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5_git/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648909552139</updated>
-      <workItem from="1648909556528" duration="4047000" />
+      <workItem from="1648909556528" duration="5858000" />
     </task>
     <task id="LOCAL-00001" summary="set up. Created gitignore">
       <created>1648910617669</created>
@@ -86,7 +85,35 @@
       <option name="project" value="LOCAL" />
       <updated>1648912131136</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created tc001">
+      <created>1648913753268</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648913753268</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated tc001">
+      <created>1648913884481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648913884481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added negative testing for tc001">
+      <created>1648914954092</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648914954094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added positive testing for tc001">
+      <created>1648915011653</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648915011653</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +124,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="fatima" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -108,6 +147,10 @@
     <MESSAGE value="Test updated 1" />
     <MESSAGE value="Test updated 2" />
     <MESSAGE value="Test updated 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test updated 3" />
+    <MESSAGE value="created tc001" />
+    <MESSAGE value="updated tc001" />
+    <MESSAGE value="added negative testing for tc001" />
+    <MESSAGE value="added positive testing for tc001" />
+    <option name="LAST_COMMIT_MESSAGE" value="added positive testing for tc001" />
   </component>
 </project>
