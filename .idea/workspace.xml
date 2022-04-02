@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad190261-77c3-4d59-8549-16891acf26dc" name="Changes" comment="Test updated 2" />
+    <list default="true" id="ad190261-77c3-4d59-8549-16891acf26dc" name="Changes" comment="Test updated 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_git/Test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648909552139</updated>
-      <workItem from="1648909556528" duration="2484000" />
+      <workItem from="1648909556528" duration="4047000" />
     </task>
     <task id="LOCAL-00001" summary="set up. Created gitignore">
       <created>1648910617669</created>
@@ -71,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648911985628</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test updated 3">
+      <created>1648912131136</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648912131136</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +107,7 @@
     <MESSAGE value="set up. Created gitignore" />
     <MESSAGE value="Test updated 1" />
     <MESSAGE value="Test updated 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test updated 2" />
+    <MESSAGE value="Test updated 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test updated 3" />
   </component>
 </project>
