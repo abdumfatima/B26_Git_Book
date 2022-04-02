@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad190261-77c3-4d59-8549-16891acf26dc" name="Changes" comment="set up. Created gitignore">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B26_Git_Branching.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ad190261-77c3-4d59-8549-16891acf26dc" name="Changes" comment="Test updated 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648909552139</updated>
-      <workItem from="1648909556528" duration="2115000" />
+      <workItem from="1648909556528" duration="2484000" />
     </task>
     <task id="LOCAL-00001" summary="set up. Created gitignore">
       <created>1648910617669</created>
@@ -49,7 +50,28 @@
       <option name="project" value="LOCAL" />
       <updated>1648910617670</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test updated 1">
+      <created>1648911935763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648911935764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test updated 2">
+      <created>1648911965222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648911965222</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test updated 2">
+      <created>1648911985628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648911985628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set up. Created gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="set up. Created gitignore" />
+    <MESSAGE value="Test updated 1" />
+    <MESSAGE value="Test updated 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test updated 2" />
   </component>
 </project>
